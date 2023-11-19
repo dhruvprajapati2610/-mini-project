@@ -1,0 +1,249 @@
+body {
+    width: 100%;
+    height:100%;
+    
+  }
+  .heroes{
+    background-color: whitesmoke;
+    width:1200px;
+    margin-left: 200px;
+   
+  }
+
+  .signcolor{
+    color:white;
+  }
+  .somaiyalogo{
+    margin-top: 2px;
+    padding-left:  17px;
+
+  }
+  .from{
+    background-color: whitesmoke;
+  }
+  .yaddy{
+    margin-left:0px ;
+    padding: 12px;
+    border-radius: 30;
+  }
+  .yaddy1:hover{
+    color: white;
+    border-radius: 20%;
+  }
+  .textred{
+    color:white;
+  }
+  .crimson:hover{
+    background-color: crimson;
+  }
+  .crimson{
+    color:white;
+    background-color: crimson;
+  }
+  .yaddy:hover{
+    color:white;
+    background-color: crimson;
+  }
+.container-fluid {
+    background-color: 	;
+    padding: 0px;
+    height:70px;
+    margin:-8px;
+}
+
+.form-floating{
+    padding:5px
+}
+.casio{
+  margin-left: 10x;
+}
+.document{
+ 
+  background: linear-gradient(300deg, #9ecbdb, #b07a82, #d18237);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+
+.container{
+ text-align: center;
+ height:300px;
+ width: 400px;
+ position: absolute;
+ top: 27%;
+ left: 38%;
+}
+ 
+.searchbar{
+    height: 40px;
+}
+
+.boldtext{
+  height: 80px;
+}
+.textu{
+  margin-left: 30px;
+  color: white;
+}
+.whitetext{
+  color: white;
+}
+body {
+    width: 100%;
+    height:100%;
+    
+  }
+  .heroes1{
+    background-color: whitesmoke;
+    width:1200px;
+    margin-left: 200px;
+    
+   
+  }
+  .heroes{
+    background-color: whitesmoke;
+    width:1200px;
+    margin-left: 200px;
+    height:600px
+
+  }
+
+  .signcolor{
+    color:white;
+  }
+  .somaiyalogo{
+    margin-top: 2px;
+    padding-left:  17px;
+
+  }
+  .from{
+    background-color: whitesmoke;
+  }
+  .yaddy{
+    margin-left:0px ;
+    padding: 12px;
+    border-radius: 30;
+  }
+  .yaddy1:hover{
+    color: white;
+    border-radius: 20%;
+  }
+  .textred{
+    color:white;
+  }
+  .crimson:hover{
+    background-color: crimson;
+  }
+  .crimson{
+    color:white;
+    background-color: crimson;
+  }
+  .yaddy:hover{
+    color:white;
+    background-color: crimson;
+  }
+.container-fluid {
+    background-color: 	;
+    padding: 0px;
+    height:70px;
+    margin:-8px;
+}
+
+.form-floating{
+    padding:5px
+}
+.casio{
+  margin-left: 10x;
+}
+.document{
+ 
+  background: linear-gradient(300deg, #9ecbdb, #b07a82, #d18237);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.fromheading{
+  margin-left: 20px;
+  text-align: center;
+  align-items: center;
+}
+.container{
+ text-align: center;
+ height:300px;
+ width: 400px;
+ position: absolute;
+ top: 27%;
+ left: 38%;
+}
+ 
+.searchbar{
+    height: 40px;
+}
+
+.boldtext{
+  height: 80px;
+}
+.textu{
+  margin-left: 30px;
+  color: white;
+}
+.whitetext{
+  color: white;
+}
+.container23 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .img1 {
+    max-width: 25%;
+    max-height:15%;
+    float: left;
+  }
+  .roboconlogo{
+    position: absolute;
+    bottom: 13%;
+    
+    left:45%;
+    float: right;
+    width:70%
+  }
+  .nsslogo{
+    float: left;
+    position: absolute;
+    bottom:-230%;
+    left:20%%;
+   }
+
+  .nlilogo{
+    float: left;
+    position: absolute;
+    left:20%;
+    top:60%
+  }
+  .dropdown {
+    display: inline-block;
+    position: relative;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    width: 100%;
+    overflow: auto;
+    box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .dropdown-content a {
+    display: block;
+    color: #000000;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .dropdown-content a:hover {
+    color: #FFFFFF;
+    background-color: #00A4BD;
+  }
+  
